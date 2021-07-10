@@ -1,3 +1,6 @@
+#include<stdio.h>
+#include<stdlib.h>
+
 struct node
 {
 
@@ -235,3 +238,4 @@ void poly_mult(struct node *p1, struct node *p2)
  printf("Multiplied polynomial is : ");
  display(start3);
 }
+
